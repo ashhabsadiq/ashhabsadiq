@@ -18,10 +18,10 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
   ArcGIS Pro, ArcMap, QGIS, Global Mapper → Spatial analysis, mapping, and geospatial data processing
 
 - **Remote Sensing & Spatial Analysis**  
-  Google Earth Engine → Satellite data analysis (Sentinel, Landsat, MODIS, IMERG), LULC classification, environmental change detection, NDVI, NDWI, LST
+  Google Earth Engine → Satellite data analysis (Sentinel, Landsat, MODIS, IMERG), LULC, LST, NDVI, NDWI, and environmental change detection
 
 - **Geospatial Programming**  
-  Python and R → Spatial analysis and data processing (Pandas, NumPy, scikit-learn)
+  Python and R → Spatial analysis and data processing (Pandas, NumPy, Scikit-learn)
 
 - **Machine Learning for Spatial Analysis**  
   Random Forest, XGBoost, Moran’s I → Applied in environmental and climate-related studies
