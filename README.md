@@ -40,8 +40,10 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 
 📧 sadiq.kuet.urp@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sadiqurp) • [Google Scholar](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Md-Ashhab-Sadiq) • [ORCID](https://orcid.org/0009-0001-2103-9612)
+🔗 [LinkedIn](https://www.linkedin.com/in/sadiqurp) • [GitHub](https://github.com/ashhabsadiq) • [Google Scholar](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Md-Ashhab-Sadiq) • [ORCID](https://orcid.org/0009-0001-2103-9612)
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out for collaborations on GIS, remote sensing, or environmental data projects.
+Thanks for visiting my profile! 
+
+Feel free to reach out for collaborations on GIS, remote sensing, or environmental data projects.
