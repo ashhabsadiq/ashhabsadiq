@@ -38,7 +38,7 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 - **Additional Tools**  
   Microsoft 365, Canva → Reporting and Designing
 
---
+---
 
 ### Let’s Connect
 
