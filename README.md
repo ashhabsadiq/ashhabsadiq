@@ -16,7 +16,7 @@ I am an Urban and Regional Planning graduate with strong expertise in GIS, Remot
   ArcGIS Pro, ArcMap, QGIS, Global Mapper → Spatial analysis, mapping, and geospatial data processing
 
 - **Remote Sensing & Spatial Analysis**  
-  Google Earth Engine → Satellite data analysis (Sentinel, Landsat, MODIS, IMERG), LULC, LST, NDVI, NDWI, and environmental change detection
+  Google Earth Engine → Satellite data analysis (Sentinel, Landsat, MODIS, IMERG), LULC, LST, NDVI, and environmental change detection
 
 - **Geospatial Programming**  
   Python and R → Spatial analysis and data processing (Pandas, NumPy, Scikit-learn)
