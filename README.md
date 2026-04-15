@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Ashhab Sadiq
 
-*Geospatial Analyst | GIS & Remote Sensing Researcher*
+**Geospatial Analyst | GIS & Remote Sensing Researcher**
 
 [![Profile views](https://komarev.com/ghpvc/?username=ashhabsadiq&color=1e40af&style=flat-square)](https://github.com/ashhabsadiq)
 
@@ -14,23 +14,29 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 
 ### Skills Summary
 
-- **GIS & Remote Sensing**  
-  ArcGIS Pro, ArcMap, QGIS, Global Mapper, Google Earth Engine (GEE)
+- **GIS & Geospatial Tools**  
+  ArcGIS Pro, ArcMap, QGIS, Global Mapper → spatial analysis, mapping, and geospatial data processing
 
-- **Geospatial Programming & Automation**  
-  Python, R (RStudio), Google Earth Engine (GEE); automated spatial analysis pipelines
+- **Remote Sensing & Spatial Analysis**  
+  Google Earth Engine → satellite data analysis (Sentinel, Landsat), LULC classification, environmental change detection, NDVI, NDWI, LST
 
-- **Machine Learning & Spatial Modeling**  
-  Random Forest, scikit-learn; drought & groundwater vulnerability modeling
+- **Geospatial Programming**  
+  Python and R → spatial analysis and data processing (Pandas, NumPy, scikit-learn)
+
+- **Machine Learning for Spatial Analysis**  
+  Random Forest, XGBoost, Moran’s I → applied in environmental and climate-related studies
 
 - **Data Analysis & Visualization**  
-  ArcGIS Online, QGIS, SPSS, Power BI; thematic mapping and dashboards
+  SPSS, ArcGIS Online, ArcGIS StoryMaps → statistical analysis and thematic mapping
 
-- **Field & Survey Tools**  
-  KoBoToolbox, PRA sessions, drone & satellite image processing
+- **Field Data Collection**  
+  KoBoToolbox, Google Forms → survey design and data collection
 
-- **Other Technical Skills**  
-  HTML/CSS, Microsoft 365, Canva
+- **Stakeholder Engagement & Field Methods**  
+  PRA, KII, FGD → participatory and qualitative data collection methods
+
+- **Additional Tools**  
+  Microsoft 365, Canva
 
 ---
 
