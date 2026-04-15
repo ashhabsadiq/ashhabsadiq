@@ -15,30 +15,30 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 ### Skills Summary
 
 - **GIS & Geospatial Tools**  
-  ArcGIS Pro, ArcMap, QGIS, Global Mapper → spatial analysis, mapping, and geospatial data processing
+  ArcGIS Pro, ArcMap, QGIS, Global Mapper → Spatial analysis, mapping, and geospatial data processing
 
 - **Remote Sensing & Spatial Analysis**  
-  Google Earth Engine → satellite data analysis (Sentinel, Landsat), LULC classification, environmental change detection, NDVI, NDWI, LST
+  Google Earth Engine → Satellite data analysis (Sentinel, Landsat, MODIS, IMERG), LULC classification, environmental change detection, NDVI, NDWI, LST
 
 - **Geospatial Programming**  
-  Python and R → spatial analysis and data processing (Pandas, NumPy, scikit-learn)
+  Python and R → Spatial analysis and data processing (Pandas, NumPy, scikit-learn)
 
 - **Machine Learning for Spatial Analysis**  
-  Random Forest, XGBoost, Moran’s I → applied in environmental and climate-related studies
+  Random Forest, XGBoost, Moran’s I → Applied in environmental and climate-related studies
 
 - **Data Analysis & Visualization**  
-  SPSS, ArcGIS Online, ArcGIS StoryMaps → statistical analysis and thematic mapping
+  SPSS, ArcGIS Online, ArcGIS StoryMaps → Statistical analysis and thematic mapping
 
 - **Field Data Collection**  
-  KoBoToolbox, Google Forms → survey design and data collection
+  KoBoToolbox, Google Forms → Survey design and data collection
 
 - **Stakeholder Engagement & Field Methods**  
-  PRA, KII, FGD → participatory and qualitative data collection methods
+  PRA, KII, FGD → Participatory and qualitative data collection methods
 
 - **Additional Tools**  
-  Microsoft 365, Canva
+  Microsoft 365, Canva → Reporting and Designing
 
----
+--
 
 ### Let’s Connect
 
