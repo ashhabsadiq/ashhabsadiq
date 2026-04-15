@@ -6,7 +6,7 @@
 
 ---
 
-I am an Urban and Regional Planning graduate with strong expertise in GIS, Remote Sensing, and spatial analysis. With over two and a half years of hands-on experience, I specialize in turning raw geospatial data into actionable insights for environmental monitoring, climate analysis, and sustainable planning. My research integrates remote sensing, GIS-based modeling, and machine learning models to solve real-world environmental challenges.
+I am an Urban and Regional Planning graduate with expertise in GIS, Remote Sensing, and spatial analysis. With over two and a half years of hands-on experience, I specialize in turning raw geospatial data into actionable insights for environmental monitoring, climate analysis, and sustainable planning. My research integrates remote sensing, GIS-based modeling, and machine learning models to solve real-world environmental challenges.
 
 ---
 
