@@ -54,8 +54,7 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 - **Community-Based Approaches for Sustainable Outcomes** (2024)  
   *International Conference on Advances in Civil Engineering (ICACE-2024)* — Participatory rural appraisal (PRA) methods for community-level sustainability.
 
-**Current Citations: 70+**  
-[![Citations](https://img.shields.io/badge/Citations-72-1e40af?style=flat-square)](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Citations-70+-1e40af?style=flat-square)](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en)
 
 ---
 
