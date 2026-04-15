@@ -40,6 +40,25 @@ My research integrates remote sensing, GIS-based modeling, and machine learning 
 
 ---
 
+### Publication Summary
+
+- **Advancing Groundwater Vulnerability Assessment in Bangladesh** (2024)  
+  *Groundwater for Sustainable Development (Q1)* — Machine learning-based approach integrating topographic, meteorological, socio-economic and geological factors.
+
+- **Meteorological Drought Assessment in Northern Bangladesh** (2023)  
+  *Ecological Indicators (Q1)* — Random Forest model combining SPI with seven remote sensing indices.
+
+- **Students' Perception on Environmental Sustainability in Higher Education Institutions** (2023)  
+  *Frontiers in Engineering and Built Environment (Q2)* — Survey-based analysis across three universities in Khulna.
+
+- **Community-Based Approaches for Sustainable Outcomes** (2024)  
+  *International Conference on Advances in Civil Engineering (ICACE-2024)* — Participatory rural appraisal (PRA) methods for community-level sustainability.
+
+**Current Citations: 70+**  
+[![Citations](https://img.shields.io/badge/Citations-72-1e40af?style=flat-square)](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en)
+
+---
+
 ### Let’s Connect
 
 📍 Dhaka, Bangladesh  
