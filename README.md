@@ -1,14 +1,14 @@
-**👋 Hi, I'm Md. Ashhab Sadiq**
+# 👋 Hi, I'm Md. Ashhab Sadiq
 
-**Geospatial Analyst | GIS & Remote Sensing Researcher**
+*Geospatial Analyst | GIS & Remote Sensing Researcher*
 
 [![Profile views](https://komarev.com/ghpvc/?username=ashhabsadiq&color=1e40af&style=flat-square)](https://github.com/ashhabsadiq)
 
 ---
 
-I am an Urban and Regional Planning graduate with strong expertise in GIS, Remote Sensing, and spatial analysis. With over two and a half years of hands-on experience, I specialize in geospatial data processing, environmental analysis, and research-driven problem solving.
+I am an Urban and Regional Planning graduate with strong expertise in GIS, Remote Sensing, and spatial analysis. With over two and a half years of hands-on experience, I specialize in turning raw geospatial data into actionable insights for environmental monitoring, climate analysis, and sustainable planning.
 
-My work focuses on land-use analysis, climate and environmental monitoring, and developing spatial insights for planning and decision-making. My research integrates remote sensing, GIS-based modeling, and machine learning to examine climatic and environmental processes across different spatial scales.
+My research integrates remote sensing, GIS-based modeling, and machine learning models to solve real-world environmental challenges.
 
 ---
 
@@ -37,6 +37,7 @@ My work focuses on land-use analysis, climate and environmental monitoring, and 
 ### Let’s Connect
 
 📍 Dhaka, Bangladesh  
+
 📧 sadiq.kuet.urp@gmail.com  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sadiqurp) • [Google Scholar](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Md-Ashhab-Sadiq) • [ORCID](https://orcid.org/0009-0001-2103-9612)
