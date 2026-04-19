@@ -56,7 +56,7 @@ I am an Urban and Regional Planning graduate with expertise in GIS, Remote Sensi
   *International Conference on Advances in Civil Engineering (ICACE-2024)*  
   Application of Participatory Rural Appraisal (PRA) methods to enhance community engagement and support environmentally informed local planning.
 
-[![Citations](https://img.shields.io/badge/Citations-70+-1e40af?style=flat-square)](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Citations-75+-1e40af?style=flat-square)](https://scholar.google.com/citations?user=yBWItBoAAAAJ&hl=en)
 
 ---
 
